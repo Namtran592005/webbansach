@@ -1,0 +1,27 @@
+# ASP.NET
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+
+# Visual Studio
+.vs/
+*.csproj.user
+
+# Packages
+packages/
+
+# Temp / build
+*.dll
+*.pdb
+*.exe
+*.config
+
+# Images - keep only screenshots
+image/upload/*
+image/img/*
+image/master/*
+
+# Generated
+hoadon/
